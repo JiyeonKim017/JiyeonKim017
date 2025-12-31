@@ -1,9 +1,7 @@
 # 👋 Hello, I'm Jiyeon
 
 <p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3776AB&width=500&lines=AI+Engineering+Student;Python+Enthusiast;Woori+FISA+6th+Gen" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3776AB&width=500&lines=AI+Engineering+Student;Python+Enthusiast;Woori+FISA+6th+Gen" alt="Typing SVG" />
 </p>
 
 ## 💫 About Me
