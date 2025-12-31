@@ -11,7 +11,7 @@
 ### 💡 Passionate about building intelligent solutions with **Python**.
 ### 🌱 Constantly learning and evolving to become a robust **AI Engineer**.
 
-<br>
+---
 
 ## 🛠 Tech Stack
 
@@ -34,16 +34,18 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 </div>
 
-<br>
+---
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiyeonKim017&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JiyeonKim017&show_icons=true&theme=nord" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiyeonKim017&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=JiyeonKim017&theme=nord" />
+  <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JiyeonKim017&layout=compact&theme=nord" />
 </p>
 
-<br>
+---
 
 ## 📬 Contact
 <div style="text-align: left;">
