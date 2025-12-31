@@ -5,11 +5,13 @@
 </p>
 
 ## 💫 About Me
-> ### **AI Engineering Student at Woori FISA 6th Gen** 🚀
+> <span style="font-size: 1.2em;">**AI Engineering Student at Woori FISA 6th Gen** 🚀</span>
 
-### 🎓 Currently diving deep into **AI Engineering** & **Data Science**.
-### 💡 Passionate about building intelligent solutions with **Python**.
-### 🌱 Constantly learning and evolving to become a robust **AI Engineer**.
+<br>
+
+<p style="font-size: 1.15em;">🎓 Currently diving deep into <b>AI Engineering</b> & <b>Data Science</b>.</p>
+<p style="font-size: 1.15em;">💡 Passionate about building intelligent solutions with <b>Python</b>.</p>
+<p style="font-size: 1.15em;">🌱 Constantly learning and evolving to become a robust <b>AI Engineer</b>.</p>
 
 ---
 
